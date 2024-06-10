@@ -1,1 +1,1 @@
-# project-1
+# Heaher Liebe project-1 repository for class
